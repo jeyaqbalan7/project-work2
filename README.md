@@ -1,4 +1,3 @@
-# 🎬 CineSync
 
 ## A Digital Casting and Talent Collaboration Platform for the Film Industry
 
@@ -93,18 +92,3 @@ The system has been tested for:
 -   Advanced analytics dashboard\
 -   Payment gateway integration
 
-------------------------------------------------------------------------
-
-## 👨‍💻 Developed By
-
-Your Name\
-B.Tech -- Information Technology\
-Saveetha Engineering College\
-2022--2026 Batch
-
-------------------------------------------------------------------------
-
-## 📄 License
-
-This project is developed for academic purposes as part of Project Work
-submission.
